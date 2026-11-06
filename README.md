@@ -1,10 +1,10 @@
 # CatUserbot
 A simple Telegram userbot based on Telethon .
 ![catuserbot logo](https://github.com/AthreyaXD/catuserbot/releases)
-[![Hits](https://github.com/AthreyaXD/catuserbot/releases%3A%2F%https://github.com/AthreyaXD/catuserbot/releases%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/AthreyaXD/catuserbot/releases)
+[![Hits](https://github.com/AthreyaXD/catuserbot/releases)](https://github.com/AthreyaXD/catuserbot/releases)
 [![CodeFactor](https://github.com/AthreyaXD/catuserbot/releases)](https://github.com/AthreyaXD/catuserbot/releases)
 [![Open Source Love](https://github.com/AthreyaXD/catuserbot/releases)](https://github.com/AthreyaXD/catuserbot/releases)
-[![Maintenance](https://github.com/AthreyaXD/catuserbot/releases%3F-yes-green?&style=flat-square)](https://github.com/AthreyaXD/catuserbot/releases) 
+[![Maintenance](https://github.com/AthreyaXD/catuserbot/releases)](https://github.com/AthreyaXD/catuserbot/releases) 
 ![Repo Size](https://github.com/AthreyaXD/catuserbot/releases)
 [![GitHub license](https://github.com/AthreyaXD/catuserbot/releases)](https://github.com/AthreyaXD/catuserbot/releases)
 [![GitHub issues](https://github.com/AthreyaXD/catuserbot/releases)](https://github.com/AthreyaXD/catuserbot/releases)
@@ -25,8 +25,8 @@ A simple Telegram userbot based on Telethon .
   - [check this](https://github.com/AthreyaXD/catuserbot/releases)
   
 ## Support
-   <a href="https://github.com/AthreyaXD/catuserbot/releases"><img src="https://github.com/AthreyaXD/catuserbot/releases%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://github.com/AthreyaXD/catuserbot/releases"><img src="https://github.com/AthreyaXD/catuserbot/releases%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://github.com/AthreyaXD/catuserbot/releases"><img src="https://github.com/AthreyaXD/catuserbot/releases" width=220px></a></p>
+   <a href="https://github.com/AthreyaXD/catuserbot/releases"><img src="https://github.com/AthreyaXD/catuserbot/releases" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/AthreyaXD/catuserbot/releases)
